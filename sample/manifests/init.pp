@@ -44,5 +44,5 @@
 #
 class sample {
 
-
+include sample::filegit
 }
